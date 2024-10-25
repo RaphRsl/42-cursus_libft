@@ -5,6 +5,9 @@
 
 The **libft** project is a foundational exercise aimed at creating a personal C library. This library implements several common functions from the C standard library and enhances them with additional functionalities, which can be reused in future projects. 
 
+<br>
+<img src="https://github.com/user-attachments/assets/b7ce4baf-001b-41be-9cbe-b3b97b2fb413" height="30"> The Libft project holds a central place in the École 42 curriculum, serving as the foundational exercise that sets the stage for all subsequent programming projects. It is the first major assignment, emphasizing the importance of understanding and implementing core C functions from scratch, as we at École 42 are forbidden from using most standard library functions. This necessity to rewrite these functions fosters a deep comprehension of programming principles, including proper memory management, string and address manipulation, and data structures like linked lists. Mastering these concepts is essential, not only for successfully completing future projects but also for developing the skills needed to become proficient, independent programmers. By engaging with Libft, we build a robust library that we can reference, utilize, adapt and enhance throughout our entire curriculum, reinforcing the idea that a strong foundation in C programming is crucial for success in the more complex challenges that lie ahead. It may not be the most enjoyable project, but it is truly essential for sure!
+
 ## Overview of the Project
 
 - **What the Project Is:**
